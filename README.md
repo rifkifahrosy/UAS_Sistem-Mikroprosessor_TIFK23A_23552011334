@@ -1,4 +1,4 @@
-# UAS Microprocessor: ESP32 IoT Smart Controller (MQTT + FreeRTOS)
+# ESP32 IoT Smart Controller (MQTT + FreeRTOS)
 
 Proyek ini adalah implementasi sistem kendali perangkat keras berbasis IoT menggunakan **ESP32 (Wemos D1 R32)**. Sistem ini mendemonstrasikan manajemen mikroprosesor tingkat lanjut dengan menerapkan **Multitasking (FreeRTOS)**, **External Interrupts**, **PWM Control**, dan **Non-Volatile Storage (NVS)**, serta terintegrasi dengan Cloud Dashboard melalui protokol **MQTT**.
 
